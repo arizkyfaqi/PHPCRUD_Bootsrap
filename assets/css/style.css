@@ -1,0 +1,48 @@
+html{
+	position: relative;
+}
+
+body {
+	margin-bottom: 80px;
+	/*margin-top: 30px;*/
+}
+	
+section{
+	margin-top: 30px;
+}
+.content {
+	padding-top: 50px;
+	min-height: 800px;
+}
+
+.table-data{
+	min-height: 600px;
+	padding-bottom: 50px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.form-grup {
+	padding-bottom: 5px;
+}
+
+footer {
+	position: absolute;
+	width: 100%;
+	height: 80px;
+	bottom: 0;
+	background-color: #343a40;
+	padding-top: 30px;
+}
+
+footer p {
+	color: #aaa;
+	font-size: 0.9em;
+}
+
+.icons{
+	
+}
